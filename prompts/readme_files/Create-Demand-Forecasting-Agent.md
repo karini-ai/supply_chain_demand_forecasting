@@ -14,14 +14,14 @@ This guide walks you through the process of **creating and publishing an agent p
 ### **Step 2: Click on "Add New"**
 - On the **top-right corner**, click the **"Add New"** button.
 
-![Add New Button](../images/Add-new-prompt-page.png)
+![Add New Button](../../images/Add-new-prompt-page.png)
 
 ---
 
 ### **Step 3: Fill in Prompt Details**
 You will be taken to a **new page** to create the prompt.
 
-![New Prompt Page](../images/New-prompt.png)
+![New Prompt Page](../../images/New-prompt.png)
 
 - **Task**: Select **"Agent"**.
 - **Name**: Enter a meaningful name.
@@ -55,7 +55,7 @@ You will be taken to a **new page** to create the prompt.
 ### **Step 8: Confirmation**
 If everything is done correctly, you will see a **confirmation page** similar to this:
 
-![Final Agent Page](../images/Succesful-prompt-page.png)
+![Final Agent Page](../../images/Succesful-prompt-page.png)
 
 ---
 
