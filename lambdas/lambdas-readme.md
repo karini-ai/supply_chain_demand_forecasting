@@ -106,7 +106,7 @@ Once the push is successful, navigate to the **AWS ECR Console** and check your 
 📌 **You should see something like this:**
 ![AWS ECR Repo View](../images/aws-ecr-repo-view.png)
 
-![AWS ECR Push Commands](../images/aws-ecr-push-commmands.png)
+![AWS ECR Push Commands](../images/aws-ecr-push-commands.png)
 ---
 
 ## **🛠 Step 3: Deploy the Image as an AWS Lambda Function**
