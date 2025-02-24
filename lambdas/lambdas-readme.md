@@ -101,7 +101,7 @@ docker push <AWS_ACCOUNT_ID>.dkr.ecr.<REGION>.amazonaws.com/order-confirmation-r
 Once the push is successful, navigate to the **AWS ECR Console** and check your repository.
 
 📌 **You should see something like this:**
-![AWS ECR Repo View](../../images/aws-ecr-repo-view.png)
+![AWS ECR Repo View](../images/aws-ecr-repo-view.png)
 
 ---
 
@@ -113,7 +113,7 @@ You can find them by:
 2. Clicking **"View Push Commands"** (as shown below).
 
 📌 **Example Push Commands Window:**
-![AWS ECR Push Commands](../../images/aws-ecr-push-commands.png)
+![AWS ECR Push Commands](../images/aws-ecr-push-commands.png)
 
 ---
 
@@ -126,6 +126,3 @@ You can find them by:
 - **Use AWS push commands** for CI/CD automation.
 
 Your Lambda is now packaged as a Docker container and ready for deployment! 🚀
-```
-
-
